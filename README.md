@@ -61,7 +61,7 @@ After inserting 15 at index 1: [10, 15, 20, 30, 40]
 After extending with [50, 60, 70]: [10, 15, 20, 30, 40, 50, 60, 70]
 After removing the last element: [10, 15, 20, 30, 40, 50, 60]
 After Sorting the list in ascending order: [10, 15, 20, 30, 40, 50, 60]
-4
+3
 ```
 
 ---
